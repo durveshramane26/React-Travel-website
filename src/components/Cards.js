@@ -15,6 +15,12 @@ function Cards() {
                       label='Adventure'
                       path='/services'
                     />
+                    <CardItem 
+                      src='images/img-2.jpg'
+                      text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quidem.'
+                      label='Luxury'
+                      path='/services'
+                    />
                 </ul>
             </div>
         </div>
